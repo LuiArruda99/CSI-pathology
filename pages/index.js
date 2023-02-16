@@ -47,7 +47,7 @@ export default function Home() {
             direction={{ base: 'column', sm: 'row' }}
           >
 
-            <a href="./dashboard.js"></a>
+            <a href="./dashboard">
             <Button
               rounded={'full'}
               size={'lg'}
@@ -59,6 +59,7 @@ export default function Home() {
             >
               Começar
             </Button>
+            </a>
             <Button
               rounded={'full'}
               size={'lg'}
