@@ -60,14 +60,7 @@ export default function Home() {
               Começar
             </Button>
             </a>
-            <Button
-              rounded={'full'}
-              size={'lg'}
-              fontWeight={'normal'}
-              px={6}
-             >
-              Saiba mais
-            </Button>
+            
           </Stack>
         </Stack>
         <Flex
